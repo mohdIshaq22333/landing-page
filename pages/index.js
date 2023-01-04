@@ -1,7 +1,7 @@
 import Image from 'next/image'
 // import { Inter } from '@next/font/google'
 import styles from '../styles/Home.module.css'
-import Header from "../components/Header";
+import Header from "../components/header";
 import Sec1 from "../components/sec1";
 import Sec2 from "../components/sec2";
 import Sec3 from "../components/sec3";
